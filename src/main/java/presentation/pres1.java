@@ -15,7 +15,7 @@ public class pres1 {
         IDao dao = new DaoImpl();
         Imetier metier = new MetierImpl(dao);
 
-        System.out.println(D2.getData());
+
 
 
 
