@@ -14,7 +14,7 @@ target/
 *.ipr
 
 
-.pres2
+
 
 ### Eclipse ###
 .apt_generated
